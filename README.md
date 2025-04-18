@@ -1,4 +1,4 @@
-![JPP_logo](https://github.com/user-attachments/assets/bfa2b19d-fe20-4841-9a9f-da684d6ea162)
+![JPP_logo](https://github.com/user-attachments/assets/logo.png)
 
 # JPP Compiler
 
@@ -101,10 +101,10 @@ AUT URL: https://jpp-compiler.vercel.app/
 
 ## Attachments
 
-![1]()
-![2](https://github.com/user-attachments/assets/d849ba7b-356b-4fdc-bf54-af92b3fa86e0)
-![3](https://github.com/user-attachments/assets/de11b4d1-e6c1-4d16-ad53-6f9fe2733115)
-![4](https://github.com/user-attachments/assets/0380ebfd-acdf-4a43-ad40-460d81828669)
+![1](https://github.com/user-attachments/assets/homepage.png)
+![2](https://github.com/user-attachments/assets/Register.png)
+![3](https://github.com/user-attachments/assets/visulizer.png)
+![4](https://github.com/user-attachments/assets/playground.png)
 
 
 ## Recommendations & Suggestions
