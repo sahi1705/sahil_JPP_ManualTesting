@@ -112,20 +112,20 @@ AUT URL: https://jpp-compiler.vercel.app/
 
 Based on the evaluation of Web Application, the following improvements are recommended:
 
-1.**Create Account**
+1. **Create Account**
 -	Need improvement on create account functionality with valid credentials  
 -	 Implement real-time validation (e.g., email format, password strength).
 -	Send a confirmation email to verify user identity.
 -	Need improvement on Terms and conditions 
 -	Need improvement on sign up and also with different account (eg; Google, apple,Email)
-2.**Visualizer Page**
+2. **Visualizer Page**
 -	Need improvement on long and complex code  conversions 
 -	 Display Python input on the left, JS output or visualization on the right.
 -	Add a quick tooltip or guide: "Paste your Python code here and see step-by-step JS translation."
 -	Provide pre-filled examples (e.g., loop, function) to help first-time users.
-3.**Playground Page** 
+3. **Playground Page** 
 -	Need improvements on different language code conversions 
-**4.**Overall Website**
+4. **Overall Website**
 -	Clearly state the purpose of the website on the landing page.
 -	 Include a simple form for users to submit issues, feedback, or suggestions.
 -	Link to basic Python/JS tutorials or docs for beginners.
