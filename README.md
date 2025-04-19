@@ -1,4 +1,4 @@
-![JPP_logo](https://github.com/user-attachments/assets/logo.png)
+![JPP_logo](https://github.com/user-attachments/assets/9a46539a-63a3-4348-bf93-ebe8e326396b)
 
 # JPP Compiler
 
@@ -101,10 +101,11 @@ AUT URL: https://jpp-compiler.vercel.app/
 
 ## Attachments
 
-![1](https://github.com/user-attachments/assets/homepage.png)
-![2](https://github.com/user-attachments/assets/Register.png)
-![3](https://github.com/user-attachments/assets/visulizer.png)
-![4](https://github.com/user-attachments/assets/playground.png)
+![1](https://github.com/user-attachments/assets/a476f106-5e74-4db2-bd33-1f2fb4d9da7a)
+![2](https://github.com/user-attachments/assets/15a8e44c-ff2f-43f8-8017-623d1da01df8)
+![3](https://github.com/user-attachments/assets/58b1f247-1eec-4e0a-b56c-d780a3a3b037)
+![4](https://github.com/user-attachments/assets/8be18ca2-e143-4b1a-8acc-ac7ebb079207)
+![5](https://github.com/user-attachments/assets/8b71abaf-67aa-4238-bc44-65ec5e180832)
 
 
 ## Recommendations & Suggestions
@@ -112,23 +113,23 @@ AUT URL: https://jpp-compiler.vercel.app/
 Based on the evaluation of Web Application, the following improvements are recommended:
 
 1.**Create Account**
-●	Need improvement on create account functionality with valid credentials  
-●	 Implement real-time validation (e.g., email format, password strength).
-●	Send a confirmation email to verify user identity.
-●	Need improvement on Terms and conditions 
-●	Need improvement on sign up and also with different account (eg; Google, apple,Email)
+-	Need improvement on create account functionality with valid credentials  
+-	 Implement real-time validation (e.g., email format, password strength).
+-	Send a confirmation email to verify user identity.
+-	Need improvement on Terms and conditions 
+-	Need improvement on sign up and also with different account (eg; Google, apple,Email)
 2.**Visualizer Page**
-●	Need improvement on long and complex code  conversions 
-●	 Display Python input on the left, JS output or visualization on the right.
-●	Add a quick tooltip or guide: "Paste your Python code here and see step-by-step JS translation."
-●	Provide pre-filled examples (e.g., loop, function) to help first-time users.
- 3.**Playground Page** 
-●	Need improvements on different language code conversions 
-4.**Overall Website**
-●	Clearly state the purpose of the website on the landing page.
-●	 Include a simple form for users to submit issues, feedback, or suggestions.
-●	Link to basic Python/JS tutorials or docs for beginners.
-●	Need improvement on visualizer not intuitive for first-time users
+-	Need improvement on long and complex code  conversions 
+-	 Display Python input on the left, JS output or visualization on the right.
+-	Add a quick tooltip or guide: "Paste your Python code here and see step-by-step JS translation."
+-	Provide pre-filled examples (e.g., loop, function) to help first-time users.
+3.**Playground Page** 
+-	Need improvements on different language code conversions 
+**4.**Overall Website**
+-	Clearly state the purpose of the website on the landing page.
+-	 Include a simple form for users to submit issues, feedback, or suggestions.
+-	Link to basic Python/JS tutorials or docs for beginners.
+-	Need improvement on visualizer not intuitive for first-time users
 
 ---
 
