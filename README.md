@@ -30,7 +30,7 @@ sahil_JPP_ManualTesting/
 ├─ JPP Compiler_Test scenarios
 ├─ JPP_MindMap.png
 ├─ JPP Compiler_BugReport
-├─ KushJPP_SummaryReport.
+├─ JPP_SummaryReport.
 
 ## Application Under Test 
 
@@ -61,17 +61,6 @@ AUT URL: https://jpp-compiler.vercel.app/
 - Compatibility Testing
 
 </details>
-
-<details>
-<summary><strong>Testing Methodologies</strong></summary>
-
-- Black-box Testing
-- Exploratory Testing
-- Integration Testing
-- End-to-End Testing
-
-</details>
-
 
 ## Test Case Execution Status
 
@@ -114,7 +103,6 @@ Based on the evaluation of Web Application, the following improvements are recom
 
 1. **Create Account**
 -	Need improvement on create account functionality with valid credentials  
--	 Implement real-time validation (e.g., email format, password strength).
 -	Send a confirmation email to verify user identity.
 -	Need improvement on Terms and conditions 
 -	Need improvement on sign up and also with different account (eg; Google, apple,Email)
@@ -137,7 +125,7 @@ Feel free to modify or add any specific details related to your implementation o
 
 ## 🚀 About Me
 
-I'm an ISTQB Certified Tester with expertise in Selenium, Cypress, Java, Python, and MySQL. I focus on delivering high-quality solutions through automation and meticulous testing practices.
+I'm an  aspiring student in Software Engineer in Development & Testing (SDET) currently building a strong foundation in both manual testing and web development.. I focus on delivering high-quality solutions through Manual testing practices.
 
 ## Feedback
 
