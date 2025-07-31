@@ -1,4 +1,4 @@
-## My Resume :    [QA_Sahil_Resume](https://1drv.ms/w/c/b125768f2c10903c/EWGGDS6palBHok6MNj4uSagBMY-zL-m7G5375qyMneTpnA?e=awTc8e)
+## My Resume :    [QA_Sahil_Resume](https://drive.google.com/file/d/1-QZGgsFeTayxeH_VfWMeBfx7hbrphyw-/view?usp=sharing)
 
 ![JPP_logo](https://github.com/user-attachments/assets/9a46539a-63a3-4348-bf93-ebe8e326396b)
 
